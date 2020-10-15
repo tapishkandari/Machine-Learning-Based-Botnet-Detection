@@ -24,7 +24,7 @@ This project requires set of the following python modules:
 
 1. scipy
 2. numpy
-3. theano
+3. theano.
 4. scikit-learn
 5. keras
 
